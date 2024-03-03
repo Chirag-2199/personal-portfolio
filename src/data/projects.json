@@ -1,0 +1,26 @@
+[
+  {
+    "title": "GetNews",
+    "imageSrc": "projects/project1.png",
+    "description": "A News App To Fetch RealTime News With Trusted News Sources.",
+    "skills": ["HTML", "CSS", "JavaScript , API"],
+    "demo": "https://get-news-rouge.vercel.app/",
+    "source": "https://github.com/Chirag-2199/GetNews"
+  },
+  {
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/projects2.png",
+    "description": "A Responsive PortFolio For My Information Using React JS And CSS .",
+    "skills": ["React", "CSS", "JSX", "Deployment"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Chirag-2199/personal-portfolio"
+  },
+  {
+    "title": "Currency Converter",
+    "imageSrc": "projects/projects3.png",
+    "description": "A Currency Converter To Get Real Time Exchange Rate.",
+    "skills": ["HTML", "CSS", "JavaScript , API"],
+    "demo": "https://currency-converter-blue-alpha.vercel.app/",
+    "source": "https://github.com/Chirag-2199/Currency-Converter"
+  }
+]
