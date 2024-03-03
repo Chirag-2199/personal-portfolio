@@ -12,7 +12,7 @@
     "imageSrc": "projects/projects2.png",
     "description": "A Responsive PortFolio For My Information Using React JS And CSS .",
     "skills": ["React", "CSS", "JSX", "Deployment"],
-    "demo": "https://www.example.com",
+    "demo": "https://chirag-2199-portfolio.vercel.app/",
     "source": "https://github.com/Chirag-2199/personal-portfolio"
   },
   {
