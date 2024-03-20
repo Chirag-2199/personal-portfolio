@@ -1,13 +1,5 @@
 [
   {
-    "title": "GetNews",
-    "imageSrc": "projects/project1.png",
-    "description": "A News App To Fetch RealTime News With Trusted News Sources.",
-    "skills": ["HTML", "CSS", "JavaScript , API"],
-    "demo": "https://get-news-rouge.vercel.app/",
-    "source": "https://github.com/Chirag-2199/GetNews"
-  },
-  {
     "title": "Personal Portfolio",
     "imageSrc": "projects/projects2.png",
     "description": "A Responsive PortFolio For My Information Using React JS And CSS .",
@@ -15,12 +7,20 @@
     "demo": "https://chirag-2199-portfolio.vercel.app/",
     "source": "https://github.com/Chirag-2199/personal-portfolio"
   },
-  {
-    "title": "Currency Converter",
-    "imageSrc": "projects/projects3.png",
-    "description": "A Currency Converter To Get Real Time Exchange Rate.",
+    {
+    "title": "Crypto Mint",
+    "imageSrc": "projects/project3.png",
+    "description": "A Crypto App to track Cyrpto Currency and see thier charts .",
+    "skills": ["React" , "CSS" , "Chart JS"],
+    "demo": "https://crypto-mint.vercel.app/",
+    "source": "https://github.com/Chirag-2199/Crypto-Mint"
+  },
+    {
+    "title": "GetNews",
+    "imageSrc": "projects/project1.png",
+    "description": "A News App To Fetch RealTime News With Trusted News Sources.",
     "skills": ["HTML", "CSS", "JavaScript , API"],
-    "demo": "https://currency-converter-blue-alpha.vercel.app/",
-    "source": "https://github.com/Chirag-2199/Currency-Converter"
-  }
+    "demo": "https://get-news-rouge.vercel.app/",
+    "source": "https://github.com/Chirag-2199/GetNews"
+  },
 ]
