@@ -16,11 +16,11 @@
     "source": "https://github.com/Chirag-2199/Crypto-Mint"
   },
     {
-    "title": "GetNews",
-    "imageSrc": "projects/project1.png",
-    "description": "A News App To Fetch RealTime News With Trusted News Sources.",
+    "title": "Code Vik",
+    "imageSrc": "projects/proect0.png",
+    "description": "A Online Code Editor to run and test your code only for HTML , CSS , Js.",
     "skills": ["HTML", "CSS", "JavaScript , API"],
-    "demo": "https://get-news-rouge.vercel.app/",
-    "source": "https://github.com/Chirag-2199/GetNews"
+    "demo": "https://github.com/Chirag-2199/code-vik",
+    "source": "https://github.com/Chirag-2199/code-vik"
   }
 ]
