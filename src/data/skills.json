@@ -24,7 +24,15 @@
     "imageSrc": "skills/tailwind.png"
   },
   {
+    "title": "BootStrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   }
 ]
