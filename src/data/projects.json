@@ -20,9 +20,9 @@
     "imageSrc": "projects/project5.png",
     "description": "A full stack job matchmaking web application with NextJs.",
     "skills": [
-      "HTML",
-      "CSS",
-      "JavaScript , API"
+      "NextJs",
+      "Tailwind",
+      "MongoDB , "Shadcn UI"
     ],
     "demo": "https://github.com/Chirag-2199/easy-job",
     "source": "https://github.com/Chirag-2199/easy-job"
