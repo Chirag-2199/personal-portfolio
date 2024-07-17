@@ -16,11 +16,15 @@
     "source": "https://github.com/Chirag-2199/Crypto-Mint"
   },
     {
-    "title": "Code Vik",
-    "imageSrc": "projects/proect0.png",
-    "description": "A Online Code Editor to run and test your code only for HTML , CSS , Js.",
-    "skills": ["HTML", "CSS", "JavaScript , API"],
-    "demo": "https://github.com/Chirag-2199/code-vik",
-    "source": "https://github.com/Chirag-2199/code-vik"
+    "title": "EasyJobs",
+    "imageSrc": "projects/project5.png",
+    "description": "A full stack job matchmaking web application with NextJs.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript , API"
+    ],
+    "demo": "https://github.com/Chirag-2199/easy-job",
+    "source": "https://github.com/Chirag-2199/easy-job"
   }
 ]
